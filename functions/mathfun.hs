@@ -1,5 +1,6 @@
 doubleMe x = x + x
 doubleUs x y = x*2 + y*2
+addThree x = 3 + x
 doubleSmallNumber x = 
     if x > 100
         then x  
